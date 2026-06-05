@@ -14,7 +14,7 @@ Database Engineer with experience in MySQL, PostgreSQL, Cassandra, MariaDB, GCP 
 - Oracle Database
 - GCP
 - Kubernetes
-- Docker
+- Docker / Podman
 - Ansible
 - GitHub Actions
 
