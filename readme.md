@@ -31,3 +31,9 @@ Database Engineer with experience in MySQL, PostgreSQL, Cassandra, MariaDB, GCP 
 
 ### Fun Fact
 I create database architecture diagrams, automation workflows and technical content for the database engineering community.
+
+### GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkat-mr369&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-mr369&layout=compact)
