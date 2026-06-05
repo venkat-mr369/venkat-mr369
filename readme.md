@@ -2,7 +2,8 @@
 
 Database Engineer with experience in MySQL, PostgreSQL, Cassandra, MariaDB, GCP and Kubernetes.
 
-<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/f6eeda72-e4fe-4e67-a746-332e3f0c33db" />
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/6c061fb5-5ea6-4031-85cf-9a73660eeca2" />
+
 
 
 ### Technologies
