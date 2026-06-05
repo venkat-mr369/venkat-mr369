@@ -34,6 +34,4 @@ I create database architecture diagrams, automation workflows and technical cont
 
 ### GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkat-mr369&show_icons=true&theme=default)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=venkat-mr369)
