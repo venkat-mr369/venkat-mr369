@@ -25,7 +25,7 @@ Database Engineer with experience in MySQL, PostgreSQL, Cassandra, MariaDB, GCP 
 - Cloud Native Databases
 
 ### Connect With Me
-- LinkedIn: [https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/yvenkatasarath/)
+- LinkedIn: [https://www.linkedin.com/in/yvenkatasarath]
 - GitHub: https://github.com/venkat-mr369
 - Email: venkat.mr369@gmail.com
 
