@@ -30,4 +30,4 @@ Database Engineer with experience in MySQL, PostgreSQL, Cassandra, MariaDB, GCP 
 - Email: venkat.mr369@gmail.com
 
 ### Fun Fact
-I create database architecture diagrams, automation workflows and technical content for the DBA community.
+I create database architecture diagrams, automation workflows and technical content for the database engineering community.
