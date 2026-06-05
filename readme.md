@@ -1,4 +1,4 @@
-### Hi, I'm Venkata 👋
+### Hi, I'm Venkat 👋
 
 Database Engineer with experience in MySQL, PostgreSQL, Cassandra, MariaDB, GCP and Kubernetes.
 
