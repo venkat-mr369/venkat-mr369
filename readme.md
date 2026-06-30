@@ -20,7 +20,7 @@ Database Engineer with experience in MySQL, PostgreSQL, Cassandra, MariaDB, GCP 
 - GitHub Actions
 
 ### Currently Learning
-- CockroachDB
+- 🪳 CockroachDB | 🔗 [Open Repository](https://github.com/venkat-mr369/cockroachdb) 
 - YugabyteDB
 - Database Automation
 - Cloud Native Databases
