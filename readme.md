@@ -8,7 +8,7 @@ Database Engineer with experience in MySQL, PostgreSQL, Cassandra, MariaDB, GCP 
 
 ### Technologies
 - MySQL
-- PostgreSQL
+- PostgreSQL [View Repository](https://github.com/venkat-mr369/postgresql-dba-lab)
 - Cassandra
 - MariaDB Galera Cluster
 - Percona XtraDB Cluster
